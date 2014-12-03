@@ -14,7 +14,7 @@ Automated deployment to multiple environments
 
 ## What you will learn
 
-> Automated deployment to multiple environments using a Continuous Integration server with Build Pipeline capabilities
+* Automated deployment to multiple environments using a Continuous Integration server with Build Pipeline capabilities
 
 ## Instructions to install Jenkins plugins needed for the exercise
 
