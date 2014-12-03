@@ -26,7 +26,7 @@ Automated migration of database changes
     `vagrant ssh build`
 
 * Checkout the source code from your forked repository https://github.com/your_name/cd_linux.git
-* cd into dbdeploy folder `cd `
+* cd into dbdeploy folder `cd dbdeploy`
 * run `ant`
 * You should see DB changes being applied on HSQL database
 * Check the newly created table called test on the database
